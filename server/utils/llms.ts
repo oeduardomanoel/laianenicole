@@ -12,7 +12,7 @@ export function buildLlmsTxt() {
 - Nome: ${site.brand}
 - Instagram: [@${site.handle}](${site.instagram})
 - Endereço: ${fullAddress} (endereço atual desde ${site.movedAt.split('-').reverse().join('/')})
-- Atendimento: ${site.hours}
+- Horário: ${site.hours}
 - Agendamento: WhatsApp https://wa.me/${wa}
 - Site: ${url}/
 - Região atendida: Balneário Camboriú, Camboriú, Itajaí e Itapema
