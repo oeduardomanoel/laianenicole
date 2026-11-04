@@ -22,9 +22,9 @@ export const site = {
   handle: 'llaianelash',
   instagram: 'https://www.instagram.com/llaianelash/',
 
-  // CONFIRMAR: número real de agendamento (somente dígitos, com 55 + DDD).
+  // Número de agendamento (somente dígitos, com 55 + DDD): (47) 99909-2451
   // Também pode ser trocado sem mexer no código pela env NUXT_PUBLIC_WHATSAPP na Vercel.
-  whatsapp: '5547900000000',
+  whatsapp: '5547999092451',
   whatsappMessage: 'Oi, Laiane! Vim pelo site e quero agendar um horário.',
 
   address: {

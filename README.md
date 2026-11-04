@@ -15,7 +15,7 @@ npm run dev
 
 Tudo que muda no site está em `shared/site.ts`. Itens marcados com `CONFIRMAR`:
 
-- **WhatsApp** (`whatsapp`) — hoje é um número de exemplo. Pode trocar ali ou pela env `NUXT_PUBLIC_WHATSAPP` na Vercel.
+- **WhatsApp** (`whatsapp`) — (47) 99909-2451. Pode trocar ali ou pela env `NUXT_PUBLIC_WHATSAPP` na Vercel.
 - **Horário de atendimento** (`hours`).
 - **CEP** (`address.postalCode`) — a Rua Itália tem 88338-260 e 88338-265 no bairro.
 - **Técnicas** (`services`) — confirme se ela faz as 4 (fio a fio, volume brasileiro, efeito molhado, lash lifting).
