@@ -1,0 +1,14 @@
+{
+  "name": "Laiane Nicole Lash Designer",
+  "short_name": "Laiane Nicole",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3a0517",
+  "theme_color": "#7a0b35",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/apple-touch-icon.png", "type": "image/png", "sizes": "180x180" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
